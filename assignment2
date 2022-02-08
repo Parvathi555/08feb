@@ -1,0 +1,7 @@
+km=float(input('Enter kilometers')) 
+cm=100000*km 
+print('centimeters',cm)
+
+output:
+Enter kilometers10
+centimeters1000000
